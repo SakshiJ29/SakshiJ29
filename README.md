@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sakshij291998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Py4Gof0RM5SXf_P1WS5REx6SDs_Daua3/view?usp=sharing](https://drive.google.com/file/d/1Py4Gof0RM5SXf_P1WS5REx6SDs_Daua3/view?usp=sharing)
+- 📄 Know about my experiences - <a href="https://github.com/SakshiJ29/SakshiJ29/blob/main/SaakshiJ_CV_Data%20analyst.pdf">🧾<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
